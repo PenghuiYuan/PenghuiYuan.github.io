@@ -42,12 +42,9 @@ I am an M.S. student in Computer Science at Beijing Information Science and Tech
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- Won the National Second Prize in the China University Virtual Reality(ChinaVR 2024) Innovation Design Competition, 2024.
 - National Second Prize, China University Virtual Reality Innovation Design Competition, 2024.
 
-- Second Prize, 2025 "Challenge Cup" Beijing Artificial Intelligence+ Special Competition, 2025.
-
-- Honorable Mention, ACM-ICPC China Final, 2019.
+- Honorable Mention, ACM-ICPC EC-Final, 2019.
 
 - Silver Medal, ACM-CCPC Hebei Provincial Collegiate Programming Contest, 2021.
 
