@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an M.S. student in Computer Science at Beijing Information Science and Technology University, advised by Prof. Qiang Tong(佟强). My research mainly focuses on Redirected Walking (RDW), in collaboration with [Song-Hai Zhang](https://scholar.google.com/citations?hl=en&user=AWtV-EQAAAAJ)(张松海), Tsinghua University and [Sen-Zhe Xu](https://www.researchgate.net/profile/Sen-Zhe-Xu)(胥森哲), University of Science and Technology Beijing.
+I am an M.S. student in Computer Science at Beijing Information Science and Technology University, advised by Qiang Tong(佟强). My research mainly focuses on Redirected Walking (RDW), in collaboration with [Song-Hai Zhang](https://scholar.google.com/citations?hl=en&user=AWtV-EQAAAAJ)(张松海) from Tsinghua University and [Sen-Zhe Xu](https://www.researchgate.net/profile/Sen-Zhe-Xu)(胥森哲) from University of Science and Technology Beijing.
 
 
 
