@@ -1,9 +1,9 @@
 # Site Settings
 title                    : "Penghui Yuan"
 description              : "Personal academic homepage of Penghui Yuan, M.S. student in Computer Science. Research interests include redirected walking, trajectory forecasting, virtual reality, and prediction-aware locomotion systems."
-repository               : "yph19990803/PenghuiYuan.github.io"
-url                      : "https://yph19990803.github.io"
-baseurl                  : "/PenghuiYuan.github.io"
+repository               : "penghuiyuan/penghuiyuan.github.io"
+url                      : "https://penghuiyuan.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
