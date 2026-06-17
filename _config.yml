@@ -1,5 +1,5 @@
 # Site Settings
-title                    : "Penghui Yuan (袁鹏辉)"
+title                    : "Penghui Yuan"
 description              : "Research interests include Redirected Walking and virtual reality."
 repository               : "penghuiyuan/penghuiyuan.github.io"
 url                      : "https://penghuiyuan.github.io"
@@ -16,7 +16,7 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Penghui Yuan"
+  name             : "Penghui Yuan (袁鹏辉)"
   avatar           : "images/profile.jpg"
   bio              : "M.S. Student in Computer Science"
   location         : "Beijing, China"
