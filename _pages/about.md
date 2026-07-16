@@ -44,18 +44,17 @@ I am an M.S. student in Computer Science at Beijing Information Science and Tech
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-* **ACM-ICPC EC-Finals** — Nov. 2019 | National | Honorable Mention
-* **ACM-ICPC Asia Regional Contest (Shenyang)** — Apr. 2020 | Regional | Honorable Mention
-* **ACM-ICPC Asia Regional Contest (Changchun)** — May 2020 | Regional | Honorable Mention
-* **ACM-ICPC Asia Regional Contest (Jinan)** — Jun. 2020 | Regional | Honorable Mention
-* **ACM-ICPC Asia Regional Contest (Kunming)** — Apr. 2021 | Regional | Honorable Mention
-* **ACM-CCPC Hebei Contest** — May 2021 | Provincial | Silver Award
-* **ACM-CCPC Northeast Contest** — Sep. 2020 | Regional | Bronze Award
-* **ACM-CCPC Heilongjiang Contest** — Oct. 2020 | Provincial | Bronze Award
-* **Lanqiao Cup C/C++ Programming Competition (National Finals)** — Nov. 2020 | National | Third Prize
-* **Lanqiao Cup C/C++ Programming Competition** — Jun. 2019 | Provincial | First Prize
-* **Lanqiao Cup C/C++ Programming Competition** — May 2021 | Provincial | First Prize
-* **China Collegiate Virtual Reality Innovation Design Competition** — Nov. 2024 | National | Second Prize
+- **ACM-ICPC EC-Finals** — Nov. 2019 | National | Honorable Mention
+- **ACM-ICPC Asia Regional Contest (Shenyang)** — Apr. 2020 | Regional | Honorable Mention
+- **ACM-ICPC Asia Regional Contest (Changchun)** — May 2020 | Regional | Honorable Mention
+- **ACM-ICPC Asia Regional Contest (Jinan)** — Jun. 2020 | Regional | Honorable Mention
+- **ACM-ICPC Asia Regional Contest (Kunming)** — Apr. 2021 | Regional | Honorable Mention
+- **ACM-CCPC Hebei Contest** — May 2021 | Provincial | Silver Award
+- **ACM-CCPC Northeast Contest** — Sep. 2020 | Regional | Bronze Award
+- **ACM-CCPC Heilongjiang Contest** — Oct. 2020 | Provincial | Bronze Award
+- **Lanqiao Cup C/C++ Programming Competition (National Finals)** — Nov. 2020 | National | Third Prize
+- **Lanqiao Cup C/C++ Programming Competition** — Jun. 2019 & May 2021 | Provincial | First Prize
+- **China Collegiate Virtual Reality Innovation Design Competition** — Nov. 2024 | National | Second Prize
 
 
 # 📖 Educations
