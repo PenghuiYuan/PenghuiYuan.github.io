@@ -44,15 +44,15 @@ I am an M.S. student in Computer Science at Beijing Information Science and Tech
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- ACM-ICPC EC-Finals — Nov. 2019, Honorable Mention
+
+- ACM-ICPC Asia Regional Contest (Shenyang、Changchun、Jinan、Kunming), Honorable Mention
+
 - ACM-CCPC Hebei Contest — May 2021, Silver Award
 
 - ACM-CCPC Northeast Contest — Sep. 2020, Bronze Award
 
 - ACM-CCPC Heilongjiang Contest — Oct. 2020, Bronze Award
-
-- ACM-ICPC EC-Finals — Nov. 2019, Honorable Mention
-
-- ACM-ICPC Asia Regional Contest (Shenyang、Changchun、Jinan、Kunming), Honorable Mention
 
 - Lanqiao Cup C/C++ Programming Competition (National Finals) — Nov. 2020, Third Prize
 
@@ -61,10 +61,10 @@ I am an M.S. student in Computer Science at Beijing Information Science and Tech
 - China Collegiate Virtual Reality Innovation Design Competition — Nov. 2024, Second Prize
 
 # 📖 Educations
-- **M.S. in Computer Technology**, School of Computer Science, Beijing Information Science and Technology University  
+- **M.S. in Computer Technology**, Beijing Information Science and Technology University  
 
   2024.09 - 2027.06  
 
-- **B.S. in Computer Science and Technology**, School of Computer Science and Technology, Tianjin University Renai College  
+- **B.S. in Computer Science and Technology**, Tianjin University Renai College  
 
   2018.09 - 2022.06  
