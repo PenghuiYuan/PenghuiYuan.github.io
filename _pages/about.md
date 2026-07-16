@@ -24,7 +24,7 @@ I am an M.S. student in Computer Science at Beijing Information Science and Tech
 # 🔥 News
 - **2026.07**: Submitted two papers to ICXR 2026.
 - **2026.07**: First-author paper accepted by ISMAR 2026.
-- **2026.07**: Co-authored paper accepted by ISMAR 2026 and recommended for IEEE TVCG.
+- **2026.07**: Co-authored paper accepted by ISMAR 2026 and recommended for TVCG.
 - **2025.12**: Co-authored paper accepted by *Computers & Graphics*.
 
 # 📝 Publications 
