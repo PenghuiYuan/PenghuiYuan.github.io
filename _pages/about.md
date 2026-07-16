@@ -62,9 +62,6 @@ I am an M.S. student in Computer Science at Beijing Information Science and Tech
 
 # 📖 Educations
 - **M.S. in Computer Technology**, Beijing Information Science and Technology University  
+, 2024.09 - 2027.06  
 
-  2024.09 - 2027.06  
-
-- **B.S. in Computer Science and Technology**, Tianjin University Renai College  
-
-  2018.09 - 2022.06  
+- **B.S. in Computer Science and Technology**, Tianjin University Renai College, 2018.09 - 2022.06  
