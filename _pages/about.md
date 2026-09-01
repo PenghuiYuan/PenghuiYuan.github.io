@@ -22,12 +22,14 @@ I am an M.S. student in Computer Science at Beijing Information Science and Tech
 
 
 # 🔥 News
-- **2026.07**: Submitted two papers to ICXR 2026.
+- **2026.09**: Two co-authored papers conditionally accepted by ICXR 2026 (CCF-C).
 - **2026.07**: First-author paper accepted by ISMAR 2026.
 - **2026.07**: Co-authored paper accepted by ISMAR 2026 and recommended for TVCG.
 - **2025.12**: Co-authored paper accepted by *Computers & Graphics*.
 
 # 📝 Publications 
+- [Incorporating strafing gain into redirected walking with pose score guidance](https://www.sciencedirect.com/science/article/abs/pii/S0097849325003334), Jin-Feng Li, Sen-Zhe Xu, Qiang Tong, **Peng-Hui Yuan**, Ling-Long Zou, Er-Xia Luo, Qi Wen Gan, Song-Hai Zhang, *Computers & Graphics* (CCF-C), 2026.
+
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
