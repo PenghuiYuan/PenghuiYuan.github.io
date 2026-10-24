@@ -26,10 +26,10 @@ My research focuses on Redirected Walking (RDW) and Virtual Reality (VR), partic
 # 🔥 News
 - **2026.09**: Received the National Scholarship (Top 1%).
 - **2026.09**: Two papers submitted to IEEE VR 2027.
-- **2026.09**: Two co-authored papers conditionally accepted by ICXR 2026.
+- **2026.09**: Two papers accepted by ICXR 2026.
 - **2026.07**: First-author paper accepted by ISMAR 2026.
-- **2026.07**: Co-authored paper accepted by ISMAR 2026 and recommended for TVCG.
-- **2025.12**: Co-authored paper accepted by *Computers & Graphics*.
+- **2026.07**: One paper accepted by ISMAR 2026 and recommended for TVCG.
+- **2025.12**: One paper accepted by *Computers & Graphics*.
 
 # 📝 Publications 
 - Predictor-Dependent Reference-Frame Selection for Trajectory Forecasting under Redirected Walking, **Peng-Hui Yuan**, Sen-Zhe Xu, Qiang Tong, Jin-Feng Li, Ling-Long Zou, Er-Xia Luo, Song-Hai Zhang, Fang-Lue Zhang, *IEEE ISMAR* (CCF-B), 2026.
