@@ -42,7 +42,7 @@ My research focuses on Redirected Walking (RDW) and Virtual Reality (VR), partic
 
 - Future-Aware Reset Direction Optimization for Redirected Walking, Jin-Feng Li, Shang-Ming Zhu, Qiang Tong, Sen-Zhe Xu, **Peng-Hui Yuan**, Wen-Yu Guo, Jun-Yu Wu, Song-Hai Zhang, *ICXR* (CCF-C), 2026.
 
-- [Incorporating strafing gain into redirected walking with pose score guidance](https://www.sciencedirect.com/science/article/abs/pii/S0097849325003334), Jin-Feng Li, Sen-Zhe Xu, Qiang Tong, **Peng-Hui Yuan**, Ling-Long Zou, Er-Xia Luo, Qi Wen Gan, Song-Hai Zhang, *Computers & Graphics* (CCF-C), 2026.
+- [Incorporating strafing gain into redirected walking with pose score guidance](https://www.sciencedirect.com/science/article/abs/pii/S0097849325003334), Jin-Feng Li, Sen-Zhe Xu, Qiang Tong, **Peng-Hui Yuan**, Ling-Long Zou, Er-Xia Luo, Qi Wen Gan, Song-Hai Zhang, *Computers & Graphics* (CCF-C), accepted in 2025.
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
