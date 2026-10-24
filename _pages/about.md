@@ -19,7 +19,7 @@ redirect_from:
 
 I am an M.S. student in Computer Technology at Beijing Information Science and Technology University, advised by Prof. Qiang Tong (佟强). Since September 2024, I have also been a joint master's research student at the Visual Media Research Center, Tsinghua University. I conduct research with Prof. [Song-Hai Zhang](https://scholar.google.com/citations?hl=en&user=AWtV-EQAAAAJ) (张松海) from Tsinghua University and Prof. [Sen-Zhe Xu](https://www.researchgate.net/profile/Sen-Zhe-Xu) (胥森哲) from the University of Science and Technology Beijing.
 
-My research focuses on Redirected Walking (RDW) and Virtual Reality (VR), particularly trajectory forecasting, reference-frame selection, cybersickness-aware gain control, and audiovisual spatial perception. My work includes developing Unity-based VR experimental systems, conducting user studies, evaluating prediction models, and analyzing experimental data.
+My research focuses on Redirected Walking (RDW) and Virtual Reality (VR), particularly trajectory forecasting, cybersickness-aware gain control, and audiovisual spatial perception. My work includes developing Unity-based VR experimental systems, conducting user studies, evaluating prediction models, and analyzing experimental data.
 
 
 
