@@ -32,7 +32,7 @@ My research focuses on Redirected Walking (RDW) and Virtual Reality (VR), partic
 - **2025.12**: One paper accepted by *Computers & Graphics*.
 
 # 📝 Publications 
-- Predictor-Dependent Reference-Frame Selection for Trajectory Forecasting under Redirected Walking, **Peng-Hui Yuan**, Sen-Zhe Xu, Qiang Tong, Jin-Feng Li, Ling-Long Zou, Er-Xia Luo, Song-Hai Zhang, Fang-Lue Zhang, *IEEE ISMAR* (CCF-B), 2026.
+- [Predictor-Dependent Reference-Frame Selection for Trajectory Forecasting under Redirected Walking](https://ieeexplore.ieee.org/document/11764374), **Peng-Hui Yuan**, Sen-Zhe Xu, Qiang Tong, Jin-Feng Li, Ling-Long Zou, Er-Xia Luo, Song-Hai Zhang, Fang-Lue Zhang, *IEEE ISMAR* (CCF-B), 2026.
 
 - Redirected Walking with Online Cybersickness Estimation and Closed-Loop Gain Control, **Peng-Hui Yuan**, Qiang Tong, Wen-Yu Guo, Shang-Ming Zhu, Jin-Feng Li, Christian Sandor, Song-Hai Zhang, Sen-Zhe Xu, *IEEE VR* (CCF-A), **Under Review**.
 
